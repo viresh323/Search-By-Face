@@ -5,7 +5,8 @@
 
 ## Getting Started
 A python application useful to filter the large set of dataset into certain images which has the face which you are concerned about ;) 
-Simple to use. Just enter the paths of the dataset and face image.
+Simple to use. 
+Just enter the paths of the dataset and face image.
 
   ### Prerequisites
   - Install "face_recognition" project
